@@ -12,6 +12,7 @@ namespace gitTest
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("12143");
+            Console.WriteLine("qwertyuio");
             Console.ReadKey();
         }
     }
